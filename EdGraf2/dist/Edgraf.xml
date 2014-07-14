@@ -1,0 +1,40 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Documents and Settings\28078\workspace\EdGraf2\dist\EdGraf.jar</jar>
+  <outfile>C:\Documents and Settings\28078\workspace\EdGraf2\dist\EdGraf.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <customProcName>false</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Documents and Settings\28078\workspace\EdGraf2\dist\Dyzury48.ico</icon>
+  <jre>
+    <path>jre</path>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+  <splash>
+    <file>C:\Documents and Settings\28078\workspace\EdGraf2\dist\splash.bmp</file>
+    <waitForWindow>true</waitForWindow>
+    <timeout>60</timeout>
+    <timeoutErr>true</timeoutErr>
+  </splash>
+  <versionInfo>
+    <fileVersion>2.0.0.1</fileVersion>
+    <txtFileVersion>2.0.0.1</txtFileVersion>
+    <fileDescription>Edgraf Edytor Grafików dyzurów domowych</fileDescription>
+    <copyright>Wojciech Pierzchalski</copyright>
+    <productVersion>2.0.0.1</productVersion>
+    <txtProductVersion>2.0.0.1</txtProductVersion>
+    <productName>Edgraf Edytor Grafików dyzurów domowych</productName>
+    <companyName></companyName>
+    <internalName>EdGraf</internalName>
+    <originalFilename>EdGraf.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>
